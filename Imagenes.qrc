@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/imagenes">
+        <file>Imagenes/cesta-de-la-compra.png</file>
+        <file>Imagenes/metodo-de-pago.png</file>
+        <file>Imagenes/tienda-de-donas.png</file>
+    </qresource>
+</RCC>
